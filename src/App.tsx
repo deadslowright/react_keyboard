@@ -1,7 +1,6 @@
 import React from 'react';
 
 type Props = {};
-
 type State = {
   pressedKey: string | null;
 };
